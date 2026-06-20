@@ -14,10 +14,21 @@ This is my own CV, marked up by hand in semantic HTML and styled with CSS — no
 - CSS3
 - No frameworks, no JavaScript — just the fundamentals
 
+## Submission checklist
+
+Per the [roadmap.sh project brief](https://roadmap.sh/projects/single-page-cv):
+
+- [x] Semantically correct HTML structure
+- [x] Single-page layout with sections for education, skills, and career history
+- [x] SEO meta tags in the head section
+- [x] OG tags for better social media sharing
+- [x] A favicon linked in the head section
+
 ## Project status
 
 - [x] Plan content and structure
 - [x] Semantic HTML skeleton
+- [x] SEO meta tags, Open Graph tags, and favicon
 - [ ] CSS styling
 - [ ] Responsive layout (mobile-friendly)
 - [ ] Accessibility pass (contrast, focus states, alt text)
