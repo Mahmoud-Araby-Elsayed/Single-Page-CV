@@ -24,26 +24,6 @@ Per the [roadmap.sh project brief](https://roadmap.sh/projects/single-page-cv):
 - [x] OG tags for better social media sharing
 - [x] A favicon linked in the head section
 
-## Project status
-
-- [x] Plan content and structure
-- [x] Semantic HTML skeleton
-- [x] SEO meta tags, Open Graph tags, and favicon
-- [ ] CSS styling
-- [ ] Responsive layout (mobile-friendly)
-- [ ] Accessibility pass (contrast, focus states, alt text)
-- [ ] Deploy to GitHub Pages
-
-## How to view it
-
-Clone the repo and open `index.html` in any browser — no build step, no dependencies.
-
-```bash
-git clone <your-repo-url>
-cd <repo-folder>
-open index.html
-```
-
 ## Contact
 
 - Email: mahmoud-araby@outlook.com
