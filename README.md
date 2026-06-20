@@ -11,8 +11,6 @@ This is my own CV, marked up by hand in semantic HTML and styled with CSS — no
 ## Built with
 
 - Semantic HTML5
-- CSS3
-- No frameworks, no JavaScript — just the fundamentals
 
 ## Submission checklist
 
